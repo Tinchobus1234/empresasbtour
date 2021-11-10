@@ -1,0 +1,21 @@
+.plans--title{
+    font-size: 3.4rem;
+}
+
+.plans--description{
+    font-size: 1.8rem;
+}
+
+.plans__container--slides{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.plans__card--container{
+    margin: 60px 20px;
+}
+
+.card--content h3{
+    font-size: 1.8rem;
+}
